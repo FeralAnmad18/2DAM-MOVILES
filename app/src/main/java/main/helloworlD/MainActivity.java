@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     public void resetContador(View view){
         contador=0;
         textView.setText(Integer.toString(contador));
+        /*sdf*/
     }
 
     private class onClickListener implements View.OnClickListener {
