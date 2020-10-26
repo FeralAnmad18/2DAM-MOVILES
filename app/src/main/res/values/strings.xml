@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Hello World</string>
+    <string name="app_name">Contador Alvaro</string>
+    <string name="hello_toast">Hola Toast</string>
+    <string name="toast">TOAST</string>
+    <string name="suma">COUNT</string>
+    <string name="reset">RESET</string>
+    <string name="placeHolder">0</string>
 </resources>
