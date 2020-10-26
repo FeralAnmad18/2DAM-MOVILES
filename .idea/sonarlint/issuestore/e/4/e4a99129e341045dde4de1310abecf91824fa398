@@ -1,0 +1,12 @@
+
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±
+a	java:S1013"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ø
+b	java:S101;"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œ»®Ò
+g	java:S101B"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’å½½ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯óıÿÿÿÿ
+F
+java:S1172!"+Remove this unused method parameter "view".(Ø…éÙşÿÿÿÿ
+F
+java:S1172)"+Remove this unused method parameter "view".(âš‹Ñıÿÿÿÿ
+F
+java:S1172-"+Remove this unused method parameter "view".(ËßÄáûÿÿÿÿ
