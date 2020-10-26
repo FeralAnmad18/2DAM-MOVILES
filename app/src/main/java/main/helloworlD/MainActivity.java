@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         String mensaje = getString(R.string.hello_toast);
         Toast toast = Toast.makeText(this, mensaje, duration);
         toast.show();
+        //dddd
     }
 
     public void sumaButton(View view) {
